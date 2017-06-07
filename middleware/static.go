@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/labstack/echo"
+	"github.com/exotel-org/echo"
 )
 
 type (
